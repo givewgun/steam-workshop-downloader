@@ -1,0 +1,16 @@
+# Allowlist source only: game folders, SteamCMD, credentials/config, downloads,
+# binaries, local lists, reports, and any future folder stay ignored.
+/*
+!/.gitignore
+!/README.md
+!/README-mods.md
+!/download-mods.ps1
+!/download-mods.cmd
+!/workshop.py
+!/tests/
+/tests/*
+!/tests/test_*.py
+!/examples/
+/examples/*
+!/examples/*.txt
+!/examples/*.json
