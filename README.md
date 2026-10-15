@@ -44,7 +44,7 @@ Enter your password and Steam Guard code directly in SteamCMD's local prompts. D
 
 Or **double-click `download-mods.cmd`**. Enter the game App ID (blank means detect), an item/collection link or list-file path, and your Steam account name (blank means anonymous). For multiple links at this prompt, separate them with spaces, commas, or semicolons. Paste a list path without surrounding quote characters.
 
-On October 15, 2026, the direct CK3 collection resolved to 37 accessible mods. Its linked collection is a separate Fallen Eagle edition and is excluded by default. Anonymous downloads failed locally with SteamCMD's `Missing decryption key`; this is an authentication/access limitation, not a completed download. Counts and contents can change; every invocation resolves Steam's live metadata.
+On October 15, 2026, the direct CK3 collection resolved to 37 accessible mods. Its linked collection is a separate Fallen Eagle edition and is excluded by default. Anonymous downloads failed locally with SteamCMD's `Missing decryption key`. After signing in, all **37 of 37** mods were verified downloaded with nonempty files and SteamCMD exit code 0. Counts and contents can change; every invocation resolves Steam's live metadata.
 
 The collection author asks users to follow the listed mod order and notes DLC requirements. Review the collection's current instructions before enabling its mods.
 
